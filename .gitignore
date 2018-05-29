@@ -1,0 +1,8 @@
+Library/
+Temp/
+obj/
+.DS_Store
+AgoraDEMO.sln
+AgoraDEMO.userprefs
+Assembly-CSharp.csproj
+Assembly-CSharp-firstpass.csproj
